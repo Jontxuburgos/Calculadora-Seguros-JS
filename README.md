@@ -1,6 +1,7 @@
 Calculadora de Seguros
 
-
+    - Selección de años, marca y tipo de seguro
+    - Validación de formulario
 
 Enlace a la app: 
 ----------------------------------------------------------------------------------------
