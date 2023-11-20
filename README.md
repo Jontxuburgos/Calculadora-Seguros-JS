@@ -2,6 +2,7 @@ Calculadora de Seguros
 
     - Selección de años, marca y tipo de seguro
     - Validación de formulario
+    - Mostrar el total segun los criterios introducidos
 
 Enlace a la app: 
 ----------------------------------------------------------------------------------------
