@@ -4,7 +4,7 @@ Calculadora de Seguros
     - Validación de formulario
     - Mostrar el total segun los criterios introducidos
 
-Enlace a la app: 
+Enlace a la app: https://frolicking-chebakia-4bf252.netlify.app
 ----------------------------------------------------------------------------------------
 
 El contenido HTML y CSS pertenece a Juan Pablo De la torre Valdez. 
